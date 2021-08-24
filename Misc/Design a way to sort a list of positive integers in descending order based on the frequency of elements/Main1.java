@@ -44,16 +44,6 @@ class Solution{
         return result;
     }
 
-    public void reverse(int[] arr, int start, int end){
-        int temp = 0;
-        while(start <= end){
-            temp = arr[start];
-            arr[start] = arr[end];
-            arr[end] = temp;
-            start++;
-        }
-    }
-
     public HashMap<Integer, ArrayList<Integer>> getFrequencyMap(int[] arr, int n){
 
         HashMap<Integer, ArrayList<Integer>> map = new HashMap<>();

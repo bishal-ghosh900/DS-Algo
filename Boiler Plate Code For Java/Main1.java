@@ -8,7 +8,7 @@ import java.io.*;
 class Main1{
 
     public static void solution() throws IOException{
-
+        
     }
        
     public static void main(String[] args) throws IOException{
@@ -34,11 +34,11 @@ class Main1{
     public static String input() throws IOException{
         return br.readLine();
     }
-    public static void print(String line) throws IOException{
-        bw.write(line);
+    public static <T> void print(T line) throws IOException{
+        bw.write(String.valueOf(line));
     }
-    public static void println(String line) throws IOException{
-        bw.write(line);
+    public static <T> void println(T line) throws IOException{
+        bw.write(String.valueOf(line));
         bw.newLine();
     }
     public static void free() throws IOException{

@@ -2,7 +2,7 @@ import java.util.HashMap;
 
 
 // ACODE - Alphacode
-public class Main2 {
+public class Main1 {
 
     static HashMap<Integer, Integer> DP = new HashMap<>();
     public static void main(String[] args) {

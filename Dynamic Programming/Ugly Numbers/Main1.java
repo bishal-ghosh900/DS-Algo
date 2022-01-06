@@ -5,7 +5,8 @@ import java.util.TreeSet;
  * Main1
  */
 // 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 16, 18, 20, 22
- // Ugly numbers are numbers whose only prime factors are 2, 3 or 5. The sequence 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, … shows the first 11 ugly numbers. By convention, 1 is included
+ // Ugly numbers are numbers whose only prime factors are 2, 3 or 5. 
+ // The sequence 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, … shows the first 11 ugly numbers. By convention, 1 is included
 public class Main1 {
 
     public static void main(String[] args) {

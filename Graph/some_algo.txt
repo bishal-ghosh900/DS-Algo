@@ -1,0 +1,5 @@
+1. Djikstra's Path Finding Algorithm
+2. Prim's and Kruskal's Algorithm
+3. Kosaraju's Strongly Connected Graph
+4. Floyd Warshall Algorithm for All Pairs Shortest Path Problem
+5. Transitive Closure of a graph

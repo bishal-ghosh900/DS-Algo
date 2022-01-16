@@ -1,0 +1,4 @@
+K-core of a graph -> K core of a graph is a subgraph of the main graph where, degree of every vertex should be atleast K.
+Degree -> Degree of any vertex is the number of edges connected to that particular vertex.
+
+Degeneracy -> Degeneracy of a graph is the largest value of K one graph can have.
